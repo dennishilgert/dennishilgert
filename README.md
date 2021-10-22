@@ -1,10 +1,12 @@
 ## Hi there 👋
+<br>
 
 ### I'm Dennis, a german computer science student and cyber security enthusiast.
 
 - 🔭  Right now I'm in the process of building my own app.
 - 🌱  I’m currently learning some advanced node.js and how the micro services architecture works.
 - ⚡  Fun fact: If there is any way, I'd rather host a service myself than use a ready-to-use solution.
+<br>
 
 ### Languages I speak:
 
