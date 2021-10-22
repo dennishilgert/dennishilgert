@@ -1,5 +1,4 @@
 ## Hi there 👋
-<br>
 
 ### I'm Dennis, a german computer science student and cyber security enthusiast.
 
