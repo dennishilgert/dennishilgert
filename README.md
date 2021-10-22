@@ -14,6 +14,7 @@
 <img align="left" alt="javascript" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="node.js" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="vue.js" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />
+<img align="left" alt="php" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
 <img align="left" alt="java" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />
 
