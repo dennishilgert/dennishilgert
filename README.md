@@ -1,12 +1,12 @@
-### Hi there, I'm Dennis 👋
+## Hi there 👋
 
-## I'm a german computer science student and cyber security enthusiast.
+### I'm Dennis, a german computer science student and cyber security enthusiast.
 
 - 🔭 Right now I'm in the process of building my own app.
 - 🌱 I’m currently learning some advanced node.js and how the micro services architecture works.
 - ⚡ Fun fact: If there is any way, I'd rather host a service myself than use a ready-to-use solution.
 
-## Languages I speak:
+### Languages I speak:
 
 <img align="left" alt="html5" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="css3" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
