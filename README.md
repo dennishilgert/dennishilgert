@@ -1,2 +1,3 @@
 <img src="https://github.com/dennishilgert/dennishilgert/blob/8543b04ff941eb38985537b4afe5f190e3042693/github-header-image.png" alt="Header images that says - Hi there, I'm Dennis Hilgert, an inquisitive software engineer from Germany.">
+
 I'm a passionate software engineer with a deep-seated love for seeking out challenges and a relentless curiosity for new horizons. My primary focus is on building powerful backend applications that form the backbone of web solutions. However, I also bring the creativity and finesse to create visually captivating frontends. I'm excited to collaborate with like-minded teams and organizations eager to harness these skills for cutting-edge projects.
